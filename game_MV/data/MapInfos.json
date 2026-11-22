@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":918,"scrollY":625},
+{"id":2,"expanded":true,"name":"古代遺跡","order":2,"parentId":1,"scrollX":1066,"scrollY":935},
+{"id":3,"expanded":false,"name":"古代遺跡","order":3,"parentId":2,"scrollX":1066,"scrollY":935},
+{"id":4,"expanded":true,"name":"MAP004","order":4,"parentId":2,"scrollX":1148,"scrollY":935},
+{"id":5,"expanded":true,"name":"雪の砦","order":5,"parentId":2,"scrollX":902,"scrollY":1791},
+{"id":6,"expanded":false,"name":"MAP006","order":6,"parentId":0,"scrollX":918,"scrollY":625},
+{"id":7,"expanded":true,"name":"岩の洞窟","order":7,"parentId":6,"scrollX":918,"scrollY":625}
+]
